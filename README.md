@@ -84,14 +84,3 @@ Stop the sniffer anytime with `Ctrl+C`.
    inspects its layers (IP, TCP, UDP, ICMP, ARP) to extract useful fields.
 3. If the packet contains a `Raw` layer, its payload bytes are decoded (or
    shown as hex if not text) and truncated for safe, readable display.
-
-## Disclaimer
-This tool is for **educational purposes only**, intended for use on networks
-you own or have explicit permission to monitor. Unauthorized packet
-sniffing on networks you don't control may be illegal.
-
-## Submission Checklist (per CodeAlpha instructions)
-- [ ] Push this folder to a GitHub repo named `CodeAlpha_BasicNetworkSniffer`
-- [ ] Record a short video walkthrough and post it on LinkedIn, tagging @CodeAlpha
-- [ ] Share the GitHub repo link in the LinkedIn post
-- [ ] Submit the task via the WhatsApp group submission form
